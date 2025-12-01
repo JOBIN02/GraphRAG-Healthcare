@@ -1,0 +1,82 @@
+FILENAME: diabetic_retinopathy.txt
+SUBJECT: Diabetic Retinopathy (Eye Disease)
+TYPE: Microvascular Complication
+SEVERITY: Leading cause of blindness in working-age adults (20-74).
+
+1. OVERVIEW
+-----------------------------------------------------------------------------
+Diabetic Retinopathy damages the blood vessels of the light-sensitive tissue 
+at the back of the eye (retina). It is a progressive condition directly linked 
+to the duration of diabetes and the severity of hyperglycemia.
+
+2. PATHOPHYSIOLOGY (THE MECHANISM OF LEAKAGE)
+-----------------------------------------------------------------------------
+The retina has the highest metabolic rate (oxygen consumption) of any tissue 
+in the body. It relies on a delicate network of capillaries.
+
+A. Pericyte Loss (The First Domino)
+   * Capillaries are supported by cells called "pericytes" that wrap around 
+     them like a structural wall.
+   * High blood sugar triggers apoptosis (cell death) of these pericytes.
+   * **Result:** The vessel walls weaken and balloon out, forming 
+     **Microaneurysms**.
+
+B. Ischemia and Hypoxia
+   * Capillaries eventually become blocked by thickened basement membranes.
+   * The retina becomes "hypoxic" (starved of oxygen).
+   * **Cotton Wool Spots:** White, fluffy patches appear on the retina, 
+     signaling areas of nerve fiber infarction (death due to lack of blood).
+
+C. The VEGF Response (The Fatal Flaw)
+   * The oxygen-starved retina sends out a distress signal: **Vascular 
+     Endothelial Growth Factor (VEGF)**.
+   * VEGF commands the eye to grow *new* blood vessels to supply oxygen.
+   * **The Problem:** These new vessels (Neovascularization) are fragile, 
+     abnormal, and leaky. They rupture easily, bleeding into the eye.
+
+3. STAGES OF PROGRESSION
+-----------------------------------------------------------------------------
+
+A. Non-Proliferative Diabetic Retinopathy (NPDR)
+   * **"Background Retinopathy"**
+   * Blood vessels are damaged but new ones haven't started growing yet.
+   * Vessels leak fluid and lipids into the retina.
+   * **Hard Exudates:** Yellow deposits of lipid/protein leaked from vessels.
+   * Vision is usually fine unless fluid accumulates in the macula.
+
+B. Proliferative Diabetic Retinopathy (PDR)
+   * **"Advanced Retinopathy"**
+   * VEGF has triggered the growth of fragile new blood vessels on the surface 
+     of the retina and into the vitreous gel.
+   * **Risks:** 1. Vitreous Hemorrhage (bleeding into the jelly of the eye).
+     2. Tractional Retinal Detachment (scar tissue pulls the retina off the 
+        back of the eye).
+
+4. SPECIFIC COMPLICATION: DIABETIC MACULAR EDEMA (DME)
+-----------------------------------------------------------------------------
+* Can occur at *any* stage (NPDR or PDR).
+* Fluid builds up in the **Macula** (the center part of the retina responsible 
+  for sharp, straight-ahead vision).
+* **Symptom:** Objects look wavy or blurry; colors look washed out.
+
+5. SYMPTOMS
+-----------------------------------------------------------------------------
+Early stages are often asymptomatic (silent). As it advances:
+* "Floaters" (dark strings floating in vision - usually blood).
+* Blurred or fluctuating vision.
+* Dark or empty areas in your vision.
+* Difficulty seeing at night.
+
+6. TREATMENTS
+-----------------------------------------------------------------------------
+* **Anti-VEGF Injections:** Drugs (like ranibizumab or aflibercept) are 
+  injected directly into the eye to block the VEGF signal, stopping abnormal 
+  vessel growth.
+* **Photocoagulation (Laser Surgery):**
+  - *Focal Laser:* Seals specific leaking vessels.
+  - *Scatter Laser (Panretinal):* Shrinks abnormal blood vessels by making 
+    tiny burns across the peripheral retina.
+* **Vitrectomy:** Surgical removal of blood-filled vitreous gel.
+
+-----------------------------------------------------------------------------
+END OF FILE

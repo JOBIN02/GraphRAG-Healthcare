@@ -1,0 +1,34 @@
+FILENAME: pubmed_obesity_link.txt
+SOURCE: PubMed (National Library of Medicine)
+TITLE: Mechanisms Linking Obesity to Insulin Resistance and Type 2 Diabetes
+JOURNAL: Nature Reviews Endocrinology. 2023; 19: 345–360.
+TYPE: Review
+
+ABSTRACT
+-----------------------------------------------------------------------------
+BACKGROUND: 
+The strong association between obesity and Type 2 Diabetes (T2DM) has led to 
+the coinage of the term "Diabesity." However, not all obese individuals 
+develop diabetes, and the molecular mechanisms linking excess adipose tissue 
+to systemic insulin resistance remain an area of intense study. This review 
+focuses on the "adipose tissue expandability" hypothesis and the role of 
+inflammation.
+
+MECHANISMS REVIEWED: 
+1. **Lipotoxicity:** When subcutaneous adipose tissue reaches its storage 
+capacity, excess lipids spill over into non-adipose tissues (liver, muscle, 
+pancreas) as Ectopic Fat. This leads to the accumulation of toxic lipid 
+metabolites (ceramides, diacylglycerol) that interfere with insulin signaling 
+pathways.
+2. **Adipokines:** Adipose tissue functions as an endocrine organ. In obesity, 
+it shifts from secreting insulin-sensitizing hormones (Adiponectin) to 
+pro-inflammatory cytokines (TNF-alpha, IL-6, Resistin).
+3. **Macrophage Infiltration:** Hypertrophic adipocytes attract immune cells 
+(macrophages), leading to a chronic state of low-grade inflammation that 
+perpetuates systemic insulin resistance.
+
+CONCLUSION: 
+Visceral adiposity acts as a pathogenic depot that drives metabolic dysfunction 
+through lipotoxicity and inflammation. Therapeutic strategies that specifically 
+target visceral fat reduction or improve adipose tissue function may offer 
+novel avenues for preventing the progression from obesity to T2DM.

@@ -1,0 +1,35 @@
+FILENAME: pubmed_metabolic_syndrome.txt
+SOURCE: PubMed (National Library of Medicine)
+TITLE: Metabolic Syndrome: Epidemiology, Pathophysiology, and Cardiovascular Risk
+JOURNAL: Lancet Diabetes Endocrinol. 2023 Nov; 11(11): 725-738.
+TYPE: Systematic Review
+
+ABSTRACT
+-----------------------------------------------------------------------------
+BACKGROUND: 
+Metabolic Syndrome (MetS) represents a clustering of cardiovascular risk 
+factors that includes central obesity, dyslipidemia, hypertension, and 
+hyperglycemia. Its prevalence is rising globally, paralleling the obesity 
+epidemic. This review aims to define the clinical criteria and quantify the 
+excess risk for Cardiovascular Disease (CVD) and Type 2 Diabetes (T2DM).
+
+METHODS: 
+A systematic review of epidemiological data from the NHANES and WHO databases 
+was performed. We analyzed studies linking insulin resistance to the 
+development of atherosclerotic plaques and endothelial dysfunction.
+
+RESULTS: 
+Metabolic Syndrome is generally defined by the presence of three or more of 
+the following five criteria: (1) Waist circumference >102cm (men) or >88cm 
+(women); (2) Triglycerides ≥150 mg/dL; (3) HDL cholesterol <40 mg/dL (men) 
+or <50 mg/dL (women); (4) Blood pressure ≥130/85 mmHg; (5) Fasting glucose 
+≥100 mg/dL. Individuals with MetS have a 2-fold increase in the risk of CVD 
+and a 5-fold increase in the risk of developing T2DM compared to those 
+without the syndrome. The central driver appears to be insulin resistance, 
+which triggers an inflammatory and pro-thrombotic state.
+
+CONCLUSION: 
+MetS is a critical public health warning sign. Identifying patients with 
+this cluster of risk factors allows for early lifestyle intervention. 
+Weight loss of 5-10% remains the primary therapeutic intervention to 
+reverse the underlying insulin resistance and mitigate cardiovascular risk.

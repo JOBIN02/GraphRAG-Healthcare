@@ -1,0 +1,25 @@
+FILENAME: glycemic_index_load.txt
+SUBJECT: Nutritional Metrics for Carbohydrate Management
+
+1. GLYCEMIC INDEX (GI) - THE "SPEED"
+-----------------------------------------------------------------------------
+* **Definition:** Measures how *fast* a food raises blood sugar compared to pure glucose (Scale 0-100).
+* **Low GI (<55):** Beans, fibrous veggies, nuts.
+* **High GI (>70):** White bread, watermelon, instant oats.
+* **Flaw:** Doesn't account for portion size. (Watermelon has high GI, but low carb density).
+
+2. GLYCEMIC LOAD (GL) - THE "IMPACT"
+-----------------------------------------------------------------------------
+* **Definition:** (GI x Grams of Carbs) / 100. This measures the actual impact of a typical serving size.
+* **The Better Metric:** GL is more useful for real-world eating.
+
+3. COMPARISON EXAMPLE
+-----------------------------------------------------------------------------
+* **Watermelon:**
+    * GI = 72 (High - absorbs fast).
+    * Carbs per serving = 6g.
+    * GL = 4 (Low impact). *Safe in moderation.*
+* **Bagel:**
+    * GI = 72 (High).
+    * Carbs per serving = 50g.
+    * GL = 36 (Massive impact). *Avoid.*

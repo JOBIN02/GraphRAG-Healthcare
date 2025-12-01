@@ -1,0 +1,38 @@
+FILENAME: pubmed_diabetes_review1.txt
+SOURCE: PubMed (National Library of Medicine)
+TITLE: Pathophysiology and Emerging Therapeutic Strategies in Type 2 Diabetes: A 2024 Update
+JOURNAL: J Clin Endocrinol Metab. 2024 Mar; 109(3): 88-102.
+TYPE: Review Article
+
+ABSTRACT
+-----------------------------------------------------------------------------
+BACKGROUND: 
+Type 2 Diabetes Mellitus (T2DM) is a complex, multifactorial metabolic 
+disorder characterized by chronic hyperglycemia, insulin resistance, and 
+progressive beta-cell failure. While traditional models focused primarily on 
+the "triumvirate" of muscle, liver, and beta-cell dysfunction, recent 
+evidence suggests a much broader pathophysiological basis, often referred to 
+as the "Ominous Octet." This review examines the latest advances in understanding 
+these mechanisms and their implications for modern pharmacotherapy.
+
+METHODS: 
+We conducted a comprehensive search of PubMed and EMBASE for high-impact 
+reviews and clinical trials published between 2020 and 2024. Emphasis was 
+placed on the role of the gut microbiome, incretin defects, and renal glucose 
+handling.
+
+RESULTS: 
+Current research highlights that hyperglycemia in T2DM is driven by defects 
+in at least eight distinct organs: (1) decreased insulin secretion (pancreas), 
+(2) decreased incretin effect (gut), (3) increased lipolysis (fat), (4) 
+increased glucose reabsorption (kidney), (5) increased hepatic glucose 
+production (liver), (6) neurotransmitter dysfunction (brain), (7) muscle 
+insulin resistance, and (8) elevated glucagon secretion (alpha-cells). 
+Therapeutic agents such as SGLT-2 inhibitors and GLP-1 receptor agonists 
+address these defects more comprehensively than older agents like sulfonylureas.
+
+CONCLUSION: 
+The management of T2DM has shifted from a "glucocentric" approach (lowering 
+sugar) to a "cardio-renal-metabolic" approach. Early combination therapy 
+targeting multiple pathophysiological pathways is now recommended to preserve 
+beta-cell function and reduce long-term cardiovascular mortality.

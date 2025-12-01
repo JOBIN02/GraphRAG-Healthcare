@@ -1,0 +1,22 @@
+FILENAME: sglt2_inhibitors.txt
+SUBJECT: Sodium-Glucose Cotransporter-2 Inhibitors
+CLASS: Gliflozins
+BRANDS: Jardiance (Empagliflozin), Farxiga (Dapagliflozin), Invokana (Canagliflozin)
+
+1. MECHANISM OF ACTION (THE "DRAIN" EFFECT)
+-----------------------------------------------------------------------------
+* **Normal Physiology:** The kidneys filter glucose but reabsorb 90% of it back into the blood via the SGLT2 protein.
+* **Drug Action:** Blocks this reabsorption.
+* **Result:** Excess glucose is excreted in the urine (Glucosuria).
+    * *Caloric Loss:* Losing sugar in urine leads to weight loss (~200-300 kcal/day).
+
+2. KEY BENEFITS (BEYOND GLUCOSE)
+-----------------------------------------------------------------------------
+* **Cardio-Protective:** Significantly reduces risk of hospitalization for Heart Failure.
+* **Renal-Protective:** Reduces pressure in the glomerulus, preserving kidney function.
+
+3. SIDE EFFECTS
+-----------------------------------------------------------------------------
+* **Genital Yeast Infections:** Sugar in urine feeds bacteria/yeast.
+* **Dehydration/Hypotension:** Acts as a diuretic (increases urination).
+* **DKA:** Rare risk of "Euglycemic DKA" (DKA with normal blood sugar).

@@ -1,0 +1,22 @@
+FILENAME: diabetic_nephropathy.txt
+SUBJECT: Chronic Kidney Disease (CKD) in Diabetes
+TYPE: Microvascular Complication
+
+1. PATHOPHYSIOLOGY
+-----------------------------------------------------------------------------
+* **Hyperfiltration:** High blood sugar increases the pressure inside the kidney's filters (Glomeruli).
+* **Damage:** Over time, this high pressure damages the filtration barrier.
+* **Leakage:** Proteins (Albumin) that should stay in the blood start leaking into the urine.
+
+2. STAGES OF DAMAGE
+-----------------------------------------------------------------------------
+1.  **Microalbuminuria:** Small amounts of albumin in urine (30–300 mg/day). Reversible.
+2.  **Macroalbuminuria:** Large amounts of albumin (>300 mg/day).
+3.  **Declining GFR:** The Glomerular Filtration Rate drops; waste builds up in blood.
+4.  **ESRD:** End-Stage Renal Disease requiring dialysis or transplant.
+
+3. MANAGEMENT
+-----------------------------------------------------------------------------
+* **BP Control:** Strict blood pressure control (<130/80).
+* **ACE Inhibitors / ARBs:** (e.g., Lisinopril, Losartan). These drugs dilate the efferent arteriole, lowering pressure *inside* the kidney.
+* **SGLT2 Inhibitors:** Proven to slow the progression of CKD.

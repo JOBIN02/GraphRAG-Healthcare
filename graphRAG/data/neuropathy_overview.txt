@@ -1,0 +1,81 @@
+FILENAME: neuropathy_overview.txt
+SUBJECT: Diabetic Neuropathy (Nerve Damage)
+TYPE: Microvascular Complication
+PREVALENCE: Affects ~50% of patients with long-standing diabetes.
+
+1. OVERVIEW
+-----------------------------------------------------------------------------
+Diabetic Neuropathy is a type of nerve damage that can occur if you have 
+diabetes. High blood sugar (hyperglycemia) injures nerves throughout the body. 
+It most often damages nerves in the legs and feet.
+
+2. PATHOPHYSIOLOGY (THE MECHANISM OF DAMAGE)
+-----------------------------------------------------------------------------
+Why does sugar destroy nerves? There are two primary theories:
+
+A. The Vascular Hypothesis (Ischemia)
+   * Nerves need their own blood supply to survive, provided by tiny vessels 
+     called the **Vasa Nervorum**.
+   * High blood sugar damages these tiny vessels (microangiopathy), thickening 
+     the vessel walls and reducing blood flow.
+   * **Result:** The nerves "starve" from a lack of oxygen and nutrients.
+
+B. The Metabolic Hypothesis (The Polyol Pathway)
+   * Normally, cells use glucose for energy.
+   * When glucose is too high, it floods an alternate pathway called the 
+     **Polyol Pathway**.
+   * The enzyme *Aldose Reductase* converts excess glucose into **Sorbitol**.
+   * **The Problem:** Sorbitol cannot exit the cell easily. It accumulates, 
+     drawing water into the nerve cell (osmotic stress) and depleting 
+     antioxidants (NADPH).
+   * **Result:** The nerve cell swells and suffers oxidative damage.
+
+3. MAJOR TYPES OF NEUROPATHY
+-----------------------------------------------------------------------------
+
+A. Peripheral Neuropathy (Distal Symmetric Polyneuropathy)
+   * **Most Common Form.**
+   * **Pattern:** "Stocking-glove" distribution. It starts at the longest 
+     nerves (toes) and slowly moves up the legs. Later, it affects the fingertips 
+     and hands.
+   * **Symptoms:** Numbness, tingling, burning sensation, sharp pains, or loss 
+     of ability to feel pain/temperature (high risk for foot ulcers).
+
+B. Autonomic Neuropathy
+   * Affects the nerves that control internal organs (involuntary functions).
+   * **Cardiovascular:** Resting tachycardia (fast heart rate), orthostatic 
+     hypotension (dizziness upon standing).
+   * **Gastrointestinal:** Gastroparesis (stomach paralysis/delayed emptying), 
+     constipation, or diarrhea.
+   * **Urogenital:** Erectile dysfunction, bladder retention/leakage.
+   * **Hypoglycemia Unawareness:** Loss of the "warning signs" (shaking, 
+     sweating) of low blood sugar.
+
+C. Proximal Neuropathy (Diabetic Amyotrophy)
+   * Affects nerves in the thighs, hips, buttocks, or legs.
+   * Symptoms: Sudden, severe pain in the hip/thigh, followed by weak thigh 
+     muscles.
+
+D. Focal Neuropathy (Mononeuropathy)
+   * Damage to a specific single nerve (e.g., wrist, head, torso).
+   * Example: Carpal tunnel syndrome or Bell's palsy.
+
+4. DIAGNOSIS
+-----------------------------------------------------------------------------
+* **Filament Test:** Using a soft nylon fiber (monofilament) to test skin 
+  sensitivity on the feet.
+* **Vibration Testing:** Using a tuning fork to test deep tissue sensation.
+* **Nerve Conduction Studies (EMG):** Measuring the speed of electrical 
+  signals through the nerves.
+
+5. MANAGEMENT & TREATMENT
+-----------------------------------------------------------------------------
+* **Strict Glucose Control:** The only way to stop the progression.
+* **Pain Management:**
+  - Standard painkillers (NSAIDs) are usually ineffective for nerve pain.
+  - First-line agents: Anti-seizure medications (Pregabalin, Gabapentin) or 
+    Antidepressants (Duloxetine) which dampen nerve signaling.
+* **Foot Care:** Daily inspection is critical to prevent amputation.
+
+-----------------------------------------------------------------------------
+END OF FILE

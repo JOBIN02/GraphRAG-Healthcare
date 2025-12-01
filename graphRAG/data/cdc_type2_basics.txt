@@ -1,0 +1,92 @@
+FILENAME: cdc_type2_basics.txt
+SOURCE: Centers for Disease Control and Prevention (CDC)
+SUBJECT: Type 2 Diabetes Mellitus - Basics, Risk, and Diagnosis
+
+1. WHAT IS TYPE 2 DIABETES?
+-----------------------------------------------------------------------------
+Type 2 diabetes is a chronic condition that affects how the body processes 
+blood sugar (glucose). 
+
+* **Insulin Resistance:** The body does not use insulin properly. The 
+    pancreas tries to make extra insulin to compensate, but eventually, it 
+    cannot keep up, and blood sugar levels rise.
+* **Prevalence:** It accounts for approximately 90-95% of all diagnosed 
+    cases of diabetes.
+
+2. RISK FACTORS
+-----------------------------------------------------------------------------
+You are at higher risk for developing Type 2 diabetes if you:
+
+* **Have Prediabetes:** Blood sugar is higher than normal but not yet high 
+    enough to be diagnosed as diabetes.
+* **Are Overweight:** Being overweight or having obesity is a primary risk.
+* **Age:** Are age 45 or older.
+* **Family History:** Have a parent, brother, or sister with type 2 diabetes.
+* **Activity Level:** Are physically active less than 3 times a week.
+* **Gestational History:** Have ever had gestational diabetes (during 
+    pregnancy) or gave birth to a baby who weighed over 9 pounds.
+* **Ethnicity:** Are African American, Hispanic/Latino, American Indian, 
+    or Alaska Native. (Some Pacific Islanders and Asian Americans are also 
+    at higher risk).
+
+3. SYMPTOMS
+-----------------------------------------------------------------------------
+Symptoms often develop slowly over several years. Many people have no 
+symptoms until health problems occur.
+
+* Frequent urination (often at night).
+* Excessive thirst.
+* Unexplained weight loss.
+* Very hungry.
+* Blurry vision.
+* Numbness or tingling in hands or feet.
+* Feeling very tired (fatigue).
+* Very dry skin.
+* Sores that heal slowly.
+* More infections than usual.
+
+4. DIAGNOSIS (A1C TEST)
+-----------------------------------------------------------------------------
+The A1C test measures your average blood sugar level over the past 2 to 3 
+months.
+
+| Diagnosis    | A1C Level        |
+|--------------|------------------|
+| Normal       | Below 5.7%       |
+| Prediabetes  | 5.7% – 6.4%      |
+| Diabetes     | 6.5% or higher   |
+
+*Note: Fasting Plasma Glucose (FPG) and Oral Glucose Tolerance Tests (OGTT) 
+are also used for diagnosis.*
+
+5. PREVENTION & MANAGEMENT
+-----------------------------------------------------------------------------
+Type 2 diabetes can often be prevented or delayed with lifestyle changes.
+
+A. Healthy Eating
+   - Focus on non-starchy vegetables (leafy greens, peppers, broccoli).
+   - Choose whole grains over refined grains.
+   - Limit added sugars and refined carbohydrates.
+
+B. Physical Activity
+   - Goal: At least 150 minutes of moderate-intensity activity (like brisk 
+     walking) per week.
+   - Strength training 2 days a week is also recommended.
+
+C. Weight Loss
+   - Losing a modest amount of weight (5% to 7% of total body weight) can 
+     significantly lower the risk. 
+     *Example: For a 200 lb person, this is a loss of 10-14 lbs.*
+
+6. COMPLICATIONS
+-----------------------------------------------------------------------------
+Uncontrolled high blood sugar can lead to:
+* Heart disease and stroke.
+* Kidney disease (Chronic Kidney Disease).
+* Eye problems (Retinopathy, Cataracts, Glaucoma).
+* Nerve damage (Neuropathy).
+* Foot health issues (can lead to amputation if untreated).
+* Gum disease and dental problems.
+
+-----------------------------------------------------------------------------
+END OF FILE

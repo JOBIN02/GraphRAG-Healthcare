@@ -1,0 +1,41 @@
+FILENAME: insulin_therapy_types.txt
+SUBJECT: Pharmacokinetics of Insulin Preparations
+USAGE: Basal-Bolus Regimens
+
+1. RAPID-ACTING (BOLUS)
+-----------------------------------------------------------------------------
+* **Examples:** Lispro (Humalog), Aspart (Novolog), Glulisine (Apidra).
+* **Role:** Covers the glucose spike from meals.
+* **Onset:** 15 minutes.
+* **Peak:** 1 hour.
+* **Duration:** 2–4 hours.
+* **Timing:** Taken immediately before eating.
+
+2. SHORT-ACTING (REGULAR)
+-----------------------------------------------------------------------------
+* **Examples:** Humulin R, Novolin R.
+* **Role:** Older generation meal coverage (often used in IV drips for DKA).
+* **Onset:** 30 mins.
+* **Peak:** 2–3 hours.
+* **Duration:** 3–6 hours.
+
+3. INTERMEDIATE-ACTING (NPH)
+-----------------------------------------------------------------------------
+* **Examples:** Humulin N, Novolin N.
+* **Appearance:** Cloudy.
+* **Role:** Covers basal needs for half the day (often twice daily).
+* **Peak:** 4–12 hours (High risk of nocturnal hypoglycemia).
+
+4. LONG-ACTING (BASAL)
+-----------------------------------------------------------------------------
+* **Examples:** Glargine (Lantus), Detemir (Levemir).
+* **Role:** Keeps blood sugar stable between meals and overnight.
+* **Onset:** 2–4 hours.
+* **Peak:** None (Peakless/Flat profile).
+* **Duration:** 24 hours.
+
+5. ULTRA-LONG ACTING
+-----------------------------------------------------------------------------
+* **Examples:** Degludec (Tresiba), Glargine U-300 (Toujeo).
+* **Duration:** >42 hours.
+* **Benefit:** Allows flexibility in injection timing.

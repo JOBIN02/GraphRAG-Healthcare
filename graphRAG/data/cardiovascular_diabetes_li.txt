@@ -1,0 +1,17 @@
+FILENAME: cardiovascular_diabetes_link.txt
+SUBJECT: Macrovascular Complications
+STATISTIC: CVD is the #1 cause of death in people with diabetes.
+
+1. THE MECHANISM
+-----------------------------------------------------------------------------
+* **Glycation:** Sugar sticks to LDL cholesterol, making it smaller and denser ("small dense LDL").
+* **Oxidation:** This sugar-coated LDL easily penetrates artery walls.
+* **Inflammation:** High sugar damages the endothelial lining of blood vessels, creating rough spots where plaque accumulates.
+* **Result:** Accelerated Atherosclerosis (hardening of arteries).
+
+2. ABCs OF HEART PROTECTION
+-----------------------------------------------------------------------------
+* **A1c:** Manage blood sugar.
+* **Blood Pressure:** Target <130/80 mmHg.
+* **Cholesterol:** Most diabetics over age 40 are recommended a Statin therapy regardless of cholesterol levels.
+* **Smoking:** Cessation is the single most effective intervention.

@@ -1,0 +1,26 @@
+FILENAME: hypoglycemia_protocol.txt
+SUBJECT: Management of Hypoglycemia (Low Blood Sugar)
+THRESHOLD: <70 mg/dL (<3.9 mmol/L)
+
+1. SYMPTOMS
+-----------------------------------------------------------------------------
+* **Adrenergic (Early):** Shaking, sweating, rapid heartbeat, anxiety.
+* **Neuroglycopenic (Late):** Confusion, slurred speech, blurry vision, drowsiness.
+
+2. THE "15-15 RULE" (STANDARD PROTOCOL)
+-----------------------------------------------------------------------------
+1.  **Check:** If blood glucose is <70 mg/dL.
+2.  **Treat:** Consume **15 grams** of fast-acting carbohydrates.
+    * 4 glucose tablets.
+    * 4 ounces (1/2 cup) of juice or regular soda.
+    * 1 tablespoon of sugar or honey.
+3.  **Wait:** Wait **15 minutes**.
+4.  **Re-check:** If still <70 mg/dL, repeat the 15g carbs.
+5.  **Stabilize:** Once normal, eat a small snack with protein (e.g., crackers and cheese) to prevent a drop.
+
+3. EMERGENCY PROTOCOL (UNCONSCIOUS PATIENT)
+-----------------------------------------------------------------------------
+* **Do NOT:** Give food or drink (choking hazard).
+* **Glucagon:** Administer Glucagon injection or nasal powder (Baqsimi).
+    * *Mechanism:* Signals the liver to dump stored glycogen into the blood immediately.
+* **Call 911:** If the patient does not wake up within 15 minutes.

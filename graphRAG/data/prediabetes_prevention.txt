@@ -1,0 +1,76 @@
+FILENAME: prediabetes_prevention.txt
+SUBJECT: Protocol for Reversing Prediabetes
+SOURCE: National Diabetes Prevention Program (National DPP)
+GOAL: Return HbA1c to <5.7% via Lifestyle Intervention
+
+1. THE CORE OBJECTIVE: 5-7% WEIGHT LOSS
+-----------------------------------------------------------------------------
+The National DPP study proved that lifestyle changes are *more* effective than 
+medication (metformin) for preventing diabetes in the long run.
+
+* **The Magic Number:** Losing just 5% to 7% of your starting body weight.
+* **The Math:**
+    -   If you weigh 200 lbs (90 kg) -> Loss Goal: 10 to 14 lbs (4.5 - 6 kg).
+    -   If you weigh 250 lbs (113 kg) -> Loss Goal: 12 to 18 lbs (5.5 - 8 kg).
+* **Why it Works:** This specific amount of weight loss preferentially targets 
+    visceral fat (liver/pancreas fat), which drastically reduces insulin 
+    resistance.
+
+2. NUTRITIONAL STRATEGY: THE PLATE METHOD
+-----------------------------------------------------------------------------
+You do not need to cut out carbs entirely, but you must change the proportion. 
+Visualize your dinner plate as a pie chart.
+
+A. 50% Non-Starchy Vegetables (The Base)
+   * *Examples:* Spinach, broccoli, peppers, cauliflower, green beans.
+   * *Mechanism:* High fiber slows gastric emptying, preventing blood sugar 
+       spikes.
+
+B. 25% Lean Protein (The Satiety Factor)
+   * *Examples:* Chicken, turkey, fish, tofu, beans, eggs.
+   * *Mechanism:* Protein does not raise blood glucose and keeps you full 
+       longer, reducing snacking urges.
+
+C. 25% Carbohydrate Foods (The Fuel)
+   * *Examples:* Brown rice, oats, quinoa, sweet potato, whole grain bread.
+   * *The Shift:* Switch from "White" (refined) to "Brown" (complex). Complex 
+       carbs take longer to break down into glucose.
+
+D. Water (The Beverage)
+   * Eliminate "Liquid Sugar" (soda, juice, sweet tea). This is the single 
+       fastest way to lower A1C.
+
+3. PHYSICAL ACTIVITY PROTOCOL
+-----------------------------------------------------------------------------
+* **Target:** 150 minutes per week (e.g., 30 mins x 5 days).
+* **Intensity:** Moderate (Can talk, but can't sing).
+* **The Mechanism (Why it reverses Prediabetes):**
+    -   Normally, insulin opens the door for sugar to enter muscle cells.
+    -   During exercise, muscle contractions activate **AMPK**, which moves 
+        glucose transporters (GLUT4) to the surface *without* needing insulin.
+    -   *Result:* You lower blood sugar even if you are insulin resistant.
+
+4. BEHAVIORAL TACTICS
+-----------------------------------------------------------------------------
+A. Tracking (Self-Monitoring)
+   * Keep a food log (app or paper). People who track what they eat lose 
+       twice as much weight as those who don't.
+
+B. Sleep Hygiene
+   * **Goal:** 7-8 hours per night.
+   * **Mechanism:** Sleep deprivation increases **Ghrelin** (hunger hormone) 
+       and cortisol, driving cravings for high-sugar foods.
+
+C. Stress Management
+   * Chronic stress keeps Cortisol levels high. Cortisol signals the liver 
+       to dump glucose into the blood (fighting the "fight or flight" response).
+   * *Action:* Deep breathing or meditation lowers cortisol and blood sugar.
+
+5. WHEN TO RETEST
+-----------------------------------------------------------------------------
+* Schedule a follow-up A1C test in **3 to 6 months**.
+* It takes ~3 months for red blood cells to turnover, so testing sooner 
+    won't show the full picture.
+
+-----------------------------------------------------------------------------
+END OF FILE

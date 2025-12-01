@@ -1,0 +1,22 @@
+FILENAME: acute_hyperglycemic_crisis.txt
+SUBJECT: DKA vs. HHS (Emergency Conditions)
+
+1. DIABETIC KETOACIDOSIS (DKA)
+-----------------------------------------------------------------------------
+* **Patient:** Mostly Type 1 (rarely Type 2).
+* **Mechanism:** Absolute lack of insulin. Body burns fat for fuel -> Ketones produced -> Blood becomes acidic.
+* **Onset:** Rapid (<24 hours).
+* **Signs:** Fruity breath, Kussmaul breathing (deep/fast), High Ketones, pH <7.3.
+
+2. HYPEROSMOLAR HYPERGLYCEMIC STATE (HHS)
+-----------------------------------------------------------------------------
+* **Patient:** Type 2 (usually elderly).
+* **Mechanism:** Severe dehydration and massive hyperglycemia (>600 mg/dL). There is just enough insulin to stop ketones, but not enough to lower sugar.
+* **Onset:** Gradual (days to weeks).
+* **Signs:** Profound dehydration, confusion/coma, NO Ketones.
+
+3. TREATMENT (HOSPITAL)
+-----------------------------------------------------------------------------
+* **Fluids:** Aggressive IV saline rehydration (Priority #1).
+* **Electrolytes:** Potassium replacement.
+* **Insulin:** IV insulin infusion (drip).

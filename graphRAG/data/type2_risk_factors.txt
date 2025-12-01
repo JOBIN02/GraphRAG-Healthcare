@@ -1,0 +1,70 @@
+FILENAME: type2_risk_factors.txt
+SUBJECT: Comprehensive Risk Profile for Type 2 Diabetes (T2DM)
+CATEGORIES: Modifiable (Lifestyle), Non-Modifiable (Genetic/Biologic), and Medical History
+
+1. NON-MODIFIABLE RISK FACTORS (BIOLOGICAL HARDWIRING)
+-----------------------------------------------------------------------------
+These factors determine your baseline genetic susceptibility.
+
+A. Genetics and Family History
+   * **Risk:** Having a first-degree relative (parent or sibling) with T2DM increases risk by 2-6x.
+   * **Mechanism:** Genetic variants (e.g., TCF7L2 gene) affect beta-cell function (insulin production) and insulin sensitivity.
+
+B. Ethnicity / Race
+   * **High-Risk Groups:** African American, Hispanic/Latino, Native American, and Asian American populations.
+   * **Mechanism:** - **"Thrifty Genotype" Hypothesis:** Evolutionary adaptation to store fat efficiently for times of famine, which backfires in modern caloric abundance.
+     - **Visceral Adiposity:** Asian populations, specifically, tend to store visceral fat at lower BMIs ("Skinny Fat"), leading to insulin resistance despite normal weight.
+
+C. Age
+   * **Risk:** Risk increases significantly after age 45 (though onset is appearing younger).
+   * **Mechanism:** - Mitochondrial efficiency declines with age (reduced energy burning).
+     - Pancreatic beta-cells gradually "burn out" and secrete less insulin over decades.
+
+2. MODIFIABLE RISK FACTORS (LIFESTYLE DRIVERS)
+-----------------------------------------------------------------------------
+These are the primary drivers of the current global epidemic.
+
+A. Obesity and Weight Distribution
+   * **BMI Thresholds:** BMI ≥ 25 kg/m² (general) or ≥ 23 kg/m² (Asian Americans).
+   * **Central Obesity (The Critical Factor):**
+     - Men: Waist circumference > 40 inches.
+     - Women: Waist circumference > 35 inches.
+   * **Mechanism (Lipotoxicity):** Visceral fat (belly fat) is not inert storage; it is an active endocrine organ. It releases Free Fatty Acids (FFAs) and inflammatory cytokines (TNF-α, IL-6) that directly block insulin signaling in muscle and liver.
+
+B. Sedentary Lifestyle
+   * **Risk:** Physical activity less than 3 times/week.
+   * **Mechanism:** - Muscle contraction stimulates glucose uptake *independently* of insulin (via AMPK pathway).
+     - Inactivity leads to downregulation of GLUT4 transporters, making cells "deaf" to insulin signals.
+
+C. Diet (The Western Pattern)
+   * **Risk:** High intake of sugar-sweetened beverages, refined grains, and processed meats.
+   * **Mechanism:**
+     - **Glycemic Load:** Constant spikes in blood sugar force the pancreas to hyper-secrete insulin, eventually leading to beta-cell exhaustion.
+     - **Fructose:** High fructose intake drives hepatic (liver) fat accumulation (Fatty Liver), a root cause of insulin resistance.
+
+3. MEDICAL HISTORY & METABOLIC MARKERS
+-----------------------------------------------------------------------------
+Existing conditions that serve as "warning lights" for future diabetes.
+
+A. Prediabetes
+   * **Definition:** HbA1c 5.7% – 6.4%.
+   * **Significance:** Indicates that insulin resistance is already established; beta-cell function may already be reduced by ~50%.
+
+B. Gestational Diabetes (GDM)
+   * **Risk:** History of diabetes during pregnancy or delivering a baby >9 lbs.
+   * **Significance:** Women with GDM have a ~50% lifetime risk of developing T2DM. It unmasks an underlying metabolic fragility.
+
+C. Polycystic Ovary Syndrome (PCOS)
+   * **Mechanism:** PCOS is fundamentally a state of insulin resistance. High insulin levels stimulate the ovaries to produce excess testosterone.
+
+D. Hypertension & Dyslipidemia
+   * **The "Deadly Quartet":** High Blood Pressure (>130/80), High Triglycerides (>250 mg/dL), and Low HDL (<35 mg/dL) often cluster with High Blood Sugar. This cluster is known as **Metabolic Syndrome**.
+
+4. EMERGING RISK FACTORS
+-----------------------------------------------------------------------------
+* **Sleep Apnea:** Chronic intermittent hypoxia (oxygen deprivation) during sleep triggers a stress response (cortisol release), which spikes blood sugar.
+* **Smoking:** Nicotine directly increases insulin resistance and abdominal fat accumulation.
+* **Chronic Stress:** Persistently elevated cortisol stimulates the liver to produce glucose (gluconeogenesis), keeping blood sugar artificially high.
+
+-----------------------------------------------------------------------------
+END OF FILE

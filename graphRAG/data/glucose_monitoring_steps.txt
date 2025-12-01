@@ -1,0 +1,90 @@
+FILENAME: glucose_monitoring_steps.txt
+SUBJECT: Self-Monitoring of Blood Glucose (SMBG)
+METHOD: Capillary Blood Glucose Test (Finger Stick)
+
+1. HOW THE TECHNOLOGY WORKS (THE STRIP MECHANISM)
+-----------------------------------------------------------------------------
+The test strip is not just a piece of plastic; it is a mini-electrochemical 
+cell.
+
+A. The Enzyme Layer
+   * The tip of the strip contains an enzyme, typically **Glucose Oxidase** or **Glucose Dehydrogenase**.
+   * When blood hits the strip, the enzyme reacts with the glucose in the 
+     blood to produce Gluconic Acid.
+
+B. The Electrical Current (Amperometry)
+   * This chemical reaction releases electrons.
+   * The meter applies a small voltage to the strip.
+   * The moving electrons create an electrical current.
+   * **The Calculation:** The strength of the current is directly proportional 
+     to the amount of glucose in the sample. The meter calculates this and 
+     displays the number.
+
+2. PREPARATION (CRITICAL FOR ACCURACY)
+-----------------------------------------------------------------------------
+A. Wash and Dry Hands
+   * **Must do:** Use warm water and soap.
+   * **Why:** Sugar residue on fingers (from fruit, lotion, or dirt) will 
+     mix with the blood drop and cause a falsely high reading. 
+   * **Dry Thoroughly:** Water dilutes the blood sample, causing a falsely 
+     low reading.
+
+B. Prepare the Lancet Device
+   * Insert a new, sterile lancet (needle) into the lancing device.
+   * **Depth Setting:** Adjust the depth gauge.
+     - Thin skin/children: 1-2
+     - Average skin: 3-4
+     - Calloused/thick skin: 5
+
+3. THE PROCEDURE (STEP-BY-STEP)
+-----------------------------------------------------------------------------
+1. **Load the Strip:** Insert the test strip into the meter. Wait for the 
+   "drop" icon to appear.
+
+2. **Select the Site:** * Do NOT prick the fleshy pad (center) of the fingertip. It has the most 
+     nerve endings and hurts the most.
+   * **Target:** The sides of the fingertip (lateral aspect).
+
+3. **Stimulate Flow:** Massage the finger from the palm toward the tip to 
+   encourage blood flow.
+
+4. **Lance:** Place the device firmly against the side of the finger and 
+   press the button.
+
+5. **The Drop:** Squeeze gently to get a round drop of blood. 
+   * *Pro-Tip:* Wipe away the very first drop with a tissue (it may contain 
+     interstitial fluid) and use the second drop for the most accuracy (though 
+     modern meters often accept the first drop).
+
+6. **Application:** Touch the *tip* of the strip to the blood drop. Do not 
+   drip blood *on top* of the strip; let the strip sip it up via capillary action.
+
+7. **Clean Up:** Apply pressure to the finger with a tissue. Dispose of the 
+   lancet in a sharps container.
+
+4. INTERPRETING THE DATA (ADA TARGETS)
+-----------------------------------------------------------------------------
+Target ranges vary by individual, but standard goals for non-pregnant adults are:
+
+| Timing              | Target Range (mg/dL) | Target Range (mmol/L) |
+|---------------------|----------------------|-----------------------|
+| Fasting (Pre-meal)  | 80 – 130 mg/dL       | 4.4 – 7.2 mmol/L      |
+| Postprandial (2hrs) | Less than 180 mg/dL  | Less than 10.0 mmol/L |
+
+5. COMMON ERROR CODES & CAUSES
+-----------------------------------------------------------------------------
+* **Not enough blood:** The strip didn't fill completely.
+* **Expired strips:** Enzymes degrade over time and with humidity.
+* **Temperature:** Meter is too hot or too cold (must be at room temp).
+* **Contamination:** "Sugar fingers" (unwashed hands).
+
+6. ALTERNATIVE: CONTINUOUS GLUCOSE MONITORING (CGM)
+-----------------------------------------------------------------------------
+* **How it works:** A tiny filament sits under the skin (usually arm or belly) 
+  measuring glucose in the *interstitial fluid* (fluid between cells), not 
+  the blood.
+* **Lag Time:** Interstitial glucose lags behind blood glucose by ~10-15 
+  minutes. Finger sticks are still required to verify sudden highs or lows.
+
+-----------------------------------------------------------------------------
+END OF FILE

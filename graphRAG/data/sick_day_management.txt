@@ -1,0 +1,20 @@
+FILENAME: sick_day_management.txt
+SUBJECT: Managing Diabetes During Illness/Infection
+RISK: Stress Hormones elevate Glucose
+
+1. THE PHYSIOLOGY OF ILLNESS
+-----------------------------------------------------------------------------
+When sick (flu, infection, fever), the body releases stress hormones (cortisol, epinephrine). These hormones cause the liver to release glucose to fight the illness, causing blood sugar to spike, even if the patient isn't eating.
+
+2. THE PROTOCOL
+-----------------------------------------------------------------------------
+* **Never Stop Insulin:** Even if you are vomiting and can't eat, your body needs basal insulin to prevent DKA.
+* **Frequent Testing:** Check glucose every 2–4 hours.
+* **Ketone Testing:** Check urine/blood for ketones if glucose >240 mg/dL.
+* **Hydration:** Drink 8oz of sugar-free fluid every hour.
+
+3. WHEN TO CALL THE DOCTOR
+-----------------------------------------------------------------------------
+* Vomiting/Diarrhea for more than 6 hours.
+* Moderate to large ketones in urine.
+* Blood glucose stays >250 mg/dL despite extra insulin.

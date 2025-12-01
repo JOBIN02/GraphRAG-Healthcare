@@ -1,0 +1,21 @@
+FILENAME: diabetic_foot_care.txt
+SUBJECT: Prevention of Ulcers and Amputation
+RISK FACTORS: Neuropathy (Loss of sensation) + PAD (Poor blood flow)
+
+1. THE "DAILY INSPECTION" PROTOCOL
+-----------------------------------------------------------------------------
+Since nerves may be damaged, pain is not a reliable warning sign. You must use your eyes.
+* **Check:** Bottoms of feet (use a mirror), between toes, and heels.
+* **Look for:** Cuts, blisters, redness, swelling, or ingrown nails.
+
+2. FOOTWEAR RULES
+-----------------------------------------------------------------------------
+* **Shake:** Shake out shoes before putting them on (a pebble could cause a wound you can't feel).
+* **Socks:** Wear white (to see blood/drainage) and seamless (to prevent rubbing) socks.
+* **No Barefoot:** Never walk barefoot, even indoors.
+
+3. HYGIENE
+-----------------------------------------------------------------------------
+* Wash feet daily in lukewarm water (test temp with elbow, not foot).
+* Dry thoroughly *between* the toes (moisture leads to fungal infection).
+* Apply lotion to tops and bottoms, but **never** between toes.
