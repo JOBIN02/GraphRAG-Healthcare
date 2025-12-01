@@ -7,6 +7,7 @@ AI-powered medical Q&A system using **GraphRAG**, **Knowledge Graphs**, and **LL
 ## 🔍 1. System Architecture Overview
 
 The system combines vector retrieval + knowledge graph reasoning + multi-agent workflow:
+<img width="1536" height="1024" alt="System_Architecture" src="https://github.com/user-attachments/assets/e60f587a-ed18-44df-8986-41e338a14890" />
 
 * **Document Preprocessing** → chunking, cleaning, entity extraction
 * **Embedding Generation** → FAISS vector index
@@ -50,6 +51,7 @@ The KG contains entities such as:
 * **Lifestyle Factors**
 * **Complications**
 * **Diagnosis Methods**
+<img width="1536" height="1024" alt="Knowledge graph structure" src="https://github.com/user-attachments/assets/154b9ced-bd06-49e8-86c5-9cb059c2b1b7" />
 
 Relationships include:
 
@@ -79,6 +81,7 @@ Enhances retrieval using graph reasoning:
 * Multi-hop graph traversal
 * Neighbor expansion
 * Structural + semantic context combined
+<img width="1024" height="1536" alt="4" src="https://github.com/user-attachments/assets/8d58c8bb-ffc1-4dc9-a77a-736c488bfd85" />
 
 This improves **accuracy**, **explainability**, and **clinical safety**.
 
